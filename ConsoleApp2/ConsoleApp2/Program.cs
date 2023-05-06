@@ -10,7 +10,11 @@ namespace ConsoleApp2
     {
         static void Main(string[] args)
         {
+<<<<<<< HEAD
             Console.WriteLine("Hello World");
+=======
+            Console.Beep();
+>>>>>>> Qfi
         }
     }
 }
